@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+    color: aquamarine;
+}
+h1{
+    font-size: 100px;
+}
+p{
+    font-size: 20px;
+}
+.morado{
+    color: violet;
+    background-color: blueviolet;
+}
+.rojo{
+    color: red;
+    background-color: orange;
+    width: 100%;
+}
+.amarillo{
+    color: yellowgreen;
+    background-color: khaki;
+    width: 100%;
+}
+.cafe{
+    background-color: blueviolet;
+    border-radius: 1000px;
+}
+.noa{
+    background-color: darkgreen;
+    border-radius: 1000px;
+}
